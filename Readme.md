@@ -234,7 +234,7 @@ Key columns in the `profiles` table:
 
 ## 📮 Postman Collection
 
-[Click here to view the Postman Collection](https://abhinavv-933-971073.postman.co/workspace/Personal-Workspace~8a1a85de-9448-46e6-8ff0-f90dbe5f8950/collection/47411984-50a2d527-f626-4b77-9a04-e195dc6836b4?action=share&source=copy-link&creator=47411984)
+[Click here to view the Postman Collection](https://documenter.getpostman.com/view/47411984/2sBXwntrrn)
 
 ## 👤 Author
 
