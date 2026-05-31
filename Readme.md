@@ -230,7 +230,7 @@ Key columns in the `profiles` table:
 
 ## 🌐 Live API
 
-`Coming soon`
+`https://github-analyzer-z0t2.onrender.com`
 
 ## 👤 Author
 
